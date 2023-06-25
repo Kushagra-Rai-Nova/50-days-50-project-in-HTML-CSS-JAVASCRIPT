@@ -3,7 +3,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [# Days - 1]([https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards](https://github.com/Kushagra-Rai-Nova/50-days-50-project-in-HTML-CSS-JAVASCRIPT/tree/main/%23%20Days%20-%201))                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
+| 01  | [Expanding Cards]([https://github.com/bradtraversy/50projects50days/tree/master/expanding-cards](https://github.com/Kushagra-Rai-Nova/50-days-50-project-in-HTML-CSS-JAVASCRIPT/tree/main/%23%20Days%20-%201))                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
 | 02  | [Progress Steps](https://github.com/bradtraversy/50projects50days/tree/master/progress-steps)                               | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | [Rotating Navigation Animation](https://github.com/bradtraversy/50projects50days/tree/master/rotating-nav-animation)                       | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | [Hidden Search Widget](https://github.com/bradtraversy/50projects50days/tree/master/hidden-search)                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
